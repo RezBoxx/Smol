@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kiste
+  - Tragbar
+  - RadiusTrigger
+  - Infected
+  - Apple
+  - DestroyableApple
+  - Checkpoint
+  - Parasite
+  - Parasite Boss
+  - SongTrigger1
+  - SongTrigger2
+  - SongTrigger3
+  - SongTrigger4
+  - SongTrigger5
+  - SongTrigger6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Trigger
+  - Player
+  - Post
+  - Parasite
+  - Apfel
+  - Wurfstein
+  - Glas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

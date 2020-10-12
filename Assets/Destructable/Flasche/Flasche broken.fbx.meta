@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: ec69da0a6e85ad14d8d36c20aa7038e2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: flasche broken
+    100004: flasche broken.001
+    100006: flasche broken.002
+    100008: flasche broken.003
+    100010: flasche broken.004
+    100012: flasche broken.005
+    100014: flasche broken.006
+    100016: flasche broken.007
+    100018: flasche broken.008
+    100020: flasche broken.009
+    100022: flasche broken.010
+    100024: flasche broken.011
+    100026: flasche broken.012
+    100028: flasche broken.013
+    100030: flasche broken.014
+    100032: flasche broken.015
+    100034: flasche broken.016
+    100036: flasche broken.017
+    100038: flasche broken.018
+    100040: flasche broken.019
+    100042: flasche broken.020
+    100044: flasche broken.021
+    100046: flasche broken.022
+    100048: flasche broken.023
+    100050: flasche broken.024
+    100052: flasche broken.025
+    100054: flasche broken.026
+    100056: flasche broken.027
+    100058: flasche broken.028
+    100060: flasche broken.029
+    100062: flasche broken.030
+    100064: flasche broken.031
+    100066: flasche broken.032
+    100068: flasche broken.033
+    100070: flasche broken.034
+    100072: flasche broken.035
+    100074: flasche broken.036
+    100076: flasche broken.037
+    100078: flasche broken.038
+    100080: flasche broken.039
+    100082: flasche broken.040
+    100084: flasche broken.041
+    100086: flasche broken.042
+    100088: flasche broken.043
+    100090: flasche broken.044
+    100092: flasche broken.045
+    100094: flasche broken.046
+    100096: flasche broken.047
+    100098: flasche broken.048
+    100100: flasche broken.049
+    100102: flasche broken.050
+    100104: flasche broken.051
+    100106: flasche broken.052
+    100108: flasche broken.053
+    100110: flasche broken.054
+    100112: flasche broken.055
+    100114: flasche broken.056
+    100116: flasche broken.057
+    100118: flasche broken.058
+    100120: flasche broken.059
+    100122: flasche broken.060
+    100124: flasche broken.061
+    100126: flasche broken.062
+    100128: flasche broken.063
+    100130: flasche broken.064
+    100132: flasche broken.065
+    100134: flasche broken.066
+    100136: flasche broken.067
+    100138: flasche broken.068
+    100140: flasche broken.069
+    100142: flasche broken.070
+    100144: flasche broken.071
+    100146: flasche broken.072
+    100148: flasche broken.073
+    100150: flasche broken.074
+    100152: flasche broken.075
+    100154: flasche broken.076
+    100156: flasche broken.077
+    100158: flasche broken.078
+    100160: flasche broken.079
+    100162: flasche broken.080
+    100164: flasche broken.081
+    100166: flasche broken.082
+    100168: flasche broken.083
+    100170: flasche broken.084
+    100172: flasche broken.085
+    100174: flasche broken.086
+    100176: flasche broken.087
+    400000: //RootNode
+    400002: flasche broken
+    400004: flasche broken.001
+    400006: flasche broken.002
+    400008: flasche broken.003
+    400010: flasche broken.004
+    400012: flasche broken.005
+    400014: flasche broken.006
+    400016: flasche broken.007
+    400018: flasche broken.008
+    400020: flasche broken.009
+    400022: flasche broken.010
+    400024: flasche broken.011
+    400026: flasche broken.012
+    400028: flasche broken.013
+    400030: flasche broken.014
+    400032: flasche broken.015
+    400034: flasche broken.016
+    400036: flasche broken.017
+    400038: flasche broken.018
+    400040: flasche broken.019
+    400042: flasche broken.020
+    400044: flasche broken.021
+    400046: flasche broken.022
+    400048: flasche broken.023
+    400050: flasche broken.024
+    400052: flasche broken.025
+    400054: flasche broken.026
+    400056: flasche broken.027
+    400058: flasche broken.028
+    400060: flasche broken.029
+    400062: flasche broken.030
+    400064: flasche broken.031
+    400066: flasche broken.032
+    400068: flasche broken.033
+    400070: flasche broken.034
+    400072: flasche broken.035
+    400074: flasche broken.036
+    400076: flasche broken.037
+    400078: flasche broken.038
+    400080: flasche broken.039
+    400082: flasche broken.040
+    400084: flasche broken.041
+    400086: flasche broken.042
+    400088: flasche broken.043
+    400090: flasche broken.044
+    400092: flasche broken.045
+    400094: flasche broken.046
+    400096: flasche broken.047
+    400098: flasche broken.048
+    400100: flasche broken.049
+    400102: flasche broken.050
+    400104: flasche broken.051
+    400106: flasche broken.052
+    400108: flasche broken.053
+    400110: flasche broken.054
+    400112: flasche broken.055
+    400114: flasche broken.056
+    400116: flasche broken.057
+    400118: flasche broken.058
+    400120: flasche broken.059
+    400122: flasche broken.060
+    400124: flasche broken.061
+    400126: flasche broken.062
+    400128: flasche broken.063
+    400130: flasche broken.064
+    400132: flasche broken.065
+    400134: flasche broken.066
+    400136: flasche broken.067
+    400138: flasche broken.068
+    400140: flasche broken.069
+    400142: flasche broken.070
+    400144: flasche broken.071
+    400146: flasche broken.072
+    400148: flasche broken.073
+    400150: flasche broken.074
+    400152: flasche broken.075
+    400154: flasche broken.076
+    400156: flasche broken.077
+    400158: flasche broken.078
+    400160: flasche broken.079
+    400162: flasche broken.080
+    400164: flasche broken.081
+    400166: flasche broken.082
+    400168: flasche broken.083
+    400170: flasche broken.084
+    400172: flasche broken.085
+    400174: flasche broken.086
+    400176: flasche broken.087
+    2100000: glas flasche.003
+    2100002: flasche deckel.003
+    2100004: flasche deckel.000
+    2100006: glas flasche.000
+    2300000: flasche broken
+    2300002: flasche broken.001
+    2300004: flasche broken.002
+    2300006: flasche broken.003
+    2300008: flasche broken.004
+    2300010: flasche broken.005
+    2300012: flasche broken.006
+    2300014: flasche broken.007
+    2300016: flasche broken.008
+    2300018: flasche broken.009
+    2300020: flasche broken.010
+    2300022: flasche broken.011
+    2300024: flasche broken.012
+    2300026: flasche broken.013
+    2300028: flasche broken.014
+    2300030: flasche broken.015
+    2300032: flasche broken.016
+    2300034: flasche broken.017
+    2300036: flasche broken.018
+    2300038: flasche broken.019
+    2300040: flasche broken.020
+    2300042: flasche broken.021
+    2300044: flasche broken.022
+    2300046: flasche broken.023
+    2300048: flasche broken.024
+    2300050: flasche broken.025
+    2300052: flasche broken.026
+    2300054: flasche broken.027
+    2300056: flasche broken.028
+    2300058: flasche broken.029
+    2300060: flasche broken.030
+    2300062: flasche broken.031
+    2300064: flasche broken.032
+    2300066: flasche broken.033
+    2300068: flasche broken.034
+    2300070: flasche broken.035
+    2300072: flasche broken.036
+    2300074: flasche broken.037
+    2300076: flasche broken.038
+    2300078: flasche broken.039
+    2300080: flasche broken.040
+    2300082: flasche broken.041
+    2300084: flasche broken.042
+    2300086: flasche broken.043
+    2300088: flasche broken.044
+    2300090: flasche broken.045
+    2300092: flasche broken.046
+    2300094: flasche broken.047
+    2300096: flasche broken.048
+    2300098: flasche broken.049
+    2300100: flasche broken.050
+    2300102: flasche broken.051
+    2300104: flasche broken.052
+    2300106: flasche broken.053
+    2300108: flasche broken.054
+    2300110: flasche broken.055
+    2300112: flasche broken.056
+    2300114: flasche broken.057
+    2300116: flasche broken.058
+    2300118: flasche broken.059
+    2300120: flasche broken.060
+    2300122: flasche broken.061
+    2300124: flasche broken.062
+    2300126: flasche broken.063
+    2300128: flasche broken.064
+    2300130: flasche broken.065
+    2300132: flasche broken.066
+    2300134: flasche broken.067
+    2300136: flasche broken.068
+    2300138: flasche broken.069
+    2300140: flasche broken.070
+    2300142: flasche broken.071
+    2300144: flasche broken.072
+    2300146: flasche broken.073
+    2300148: flasche broken.074
+    2300150: flasche broken.075
+    2300152: flasche broken.076
+    2300154: flasche broken.077
+    2300156: flasche broken.078
+    2300158: flasche broken.079
+    2300160: flasche broken.080
+    2300162: flasche broken.081
+    2300164: flasche broken.082
+    2300166: flasche broken.083
+    2300168: flasche broken.084
+    2300170: flasche broken.085
+    2300172: flasche broken.086
+    2300174: flasche broken.087
+    2300176: //RootNode
+    3300000: flasche broken
+    3300002: flasche broken.001
+    3300004: flasche broken.002
+    3300006: flasche broken.003
+    3300008: flasche broken.004
+    3300010: flasche broken.005
+    3300012: flasche broken.006
+    3300014: flasche broken.007
+    3300016: flasche broken.008
+    3300018: flasche broken.009
+    3300020: flasche broken.010
+    3300022: flasche broken.011
+    3300024: flasche broken.012
+    3300026: flasche broken.013
+    3300028: flasche broken.014
+    3300030: flasche broken.015
+    3300032: flasche broken.016
+    3300034: flasche broken.017
+    3300036: flasche broken.018
+    3300038: flasche broken.019
+    3300040: flasche broken.020
+    3300042: flasche broken.021
+    3300044: flasche broken.022
+    3300046: flasche broken.023
+    3300048: flasche broken.024
+    3300050: flasche broken.025
+    3300052: flasche broken.026
+    3300054: flasche broken.027
+    3300056: flasche broken.028
+    3300058: flasche broken.029
+    3300060: flasche broken.030
+    3300062: flasche broken.031
+    3300064: flasche broken.032
+    3300066: flasche broken.033
+    3300068: flasche broken.034
+    3300070: flasche broken.035
+    3300072: flasche broken.036
+    3300074: flasche broken.037
+    3300076: flasche broken.038
+    3300078: flasche broken.039
+    3300080: flasche broken.040
+    3300082: flasche broken.041
+    3300084: flasche broken.042
+    3300086: flasche broken.043
+    3300088: flasche broken.044
+    3300090: flasche broken.045
+    3300092: flasche broken.046
+    3300094: flasche broken.047
+    3300096: flasche broken.048
+    3300098: flasche broken.049
+    3300100: flasche broken.050
+    3300102: flasche broken.051
+    3300104: flasche broken.052
+    3300106: flasche broken.053
+    3300108: flasche broken.054
+    3300110: flasche broken.055
+    3300112: flasche broken.056
+    3300114: flasche broken.057
+    3300116: flasche broken.058
+    3300118: flasche broken.059
+    3300120: flasche broken.060
+    3300122: flasche broken.061
+    3300124: flasche broken.062
+    3300126: flasche broken.063
+    3300128: flasche broken.064
+    3300130: flasche broken.065
+    3300132: flasche broken.066
+    3300134: flasche broken.067
+    3300136: flasche broken.068
+    3300138: flasche broken.069
+    3300140: flasche broken.070
+    3300142: flasche broken.071
+    3300144: flasche broken.072
+    3300146: flasche broken.073
+    3300148: flasche broken.074
+    3300150: flasche broken.075
+    3300152: flasche broken.076
+    3300154: flasche broken.077
+    3300156: flasche broken.078
+    3300158: flasche broken.079
+    3300160: flasche broken.080
+    3300162: flasche broken.081
+    3300164: flasche broken.082
+    3300166: flasche broken.083
+    3300168: flasche broken.084
+    3300170: flasche broken.085
+    3300172: flasche broken.086
+    3300174: flasche broken.087
+    3300176: //RootNode
+    4300000: flasche broken.087
+    4300002: flasche broken.086
+    4300004: flasche broken.085
+    4300006: flasche broken.084
+    4300008: flasche broken.083
+    4300010: flasche broken.082
+    4300012: flasche broken.081
+    4300014: flasche broken.080
+    4300016: flasche broken.079
+    4300018: flasche broken.078
+    4300020: flasche broken.077
+    4300022: flasche broken.076
+    4300024: flasche broken.075
+    4300026: flasche broken.074
+    4300028: flasche broken.073
+    4300030: flasche broken.072
+    4300032: flasche broken.071
+    4300034: flasche broken.070
+    4300036: flasche broken.069
+    4300038: flasche broken.068
+    4300040: flasche broken.067
+    4300042: flasche broken.066
+    4300044: flasche broken.065
+    4300046: flasche broken.064
+    4300048: flasche broken.063
+    4300050: flasche broken.062
+    4300052: flasche broken.061
+    4300054: flasche broken.060
+    4300056: flasche broken.059
+    4300058: flasche broken.058
+    4300060: flasche broken.057
+    4300062: flasche broken.056
+    4300064: flasche broken.055
+    4300066: flasche broken.054
+    4300068: flasche broken.053
+    4300070: flasche broken.052
+    4300072: flasche broken.051
+    4300074: flasche broken.050
+    4300076: flasche broken.049
+    4300078: flasche broken.048
+    4300080: flasche broken.047
+    4300082: flasche broken.046
+    4300084: flasche broken.045
+    4300086: flasche broken.044
+    4300088: flasche broken.043
+    4300090: flasche broken.042
+    4300092: flasche broken.041
+    4300094: flasche broken.040
+    4300096: flasche broken.039
+    4300098: flasche broken.038
+    4300100: flasche broken.037
+    4300102: flasche broken.036
+    4300104: flasche broken.035
+    4300106: flasche broken.034
+    4300108: flasche broken.033
+    4300110: flasche broken.032
+    4300112: flasche broken.031
+    4300114: flasche broken.030
+    4300116: flasche broken.029
+    4300118: flasche broken.028
+    4300120: flasche broken.027
+    4300122: flasche broken.026
+    4300124: flasche broken.025
+    4300126: flasche broken.024
+    4300128: flasche broken.023
+    4300130: flasche broken.022
+    4300132: flasche broken.021
+    4300134: flasche broken.020
+    4300136: flasche broken.019
+    4300138: flasche broken.018
+    4300140: flasche broken.017
+    4300142: flasche broken.016
+    4300144: flasche broken.015
+    4300146: flasche broken.014
+    4300148: flasche broken.013
+    4300150: flasche broken.012
+    4300152: flasche broken.011
+    4300154: flasche broken.010
+    4300156: flasche broken.009
+    4300158: flasche broken.008
+    4300160: flasche broken.007
+    4300162: flasche broken.006
+    4300164: flasche broken.005
+    4300166: flasche broken.004
+    4300168: flasche broken.003
+    4300170: flasche broken.002
+    4300172: flasche broken.001
+    4300174: flasche broken
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

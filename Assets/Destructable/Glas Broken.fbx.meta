@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 2802cc5a1d7e89347af54593c0d37a5f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Glas Whole.001
+    100004: Glas Whole.002
+    100006: Glas Whole.003
+    100008: Glas Whole.004
+    100010: Glas Whole.005
+    100012: Glas Whole.006
+    100014: Glas Whole.007
+    100016: Glas Whole.008
+    100018: Glas Whole.009
+    100020: Glas Whole.010
+    100022: Glas Whole.011
+    100024: Glas Whole.012
+    100026: Glas Whole.013
+    100028: Glas Whole.014
+    100030: Glas Whole.015
+    100032: Glas Whole.016
+    100034: Glas Whole.017
+    100036: Glas Whole.018
+    100038: Glas Whole.019
+    100040: Glas Whole.020
+    100042: Glas Whole.021
+    100044: Glas Whole.022
+    100046: Glas Whole.023
+    100048: Glas Whole.024
+    100050: Glas Whole.025
+    100052: Glas Whole.026
+    100054: Glas Whole.027
+    100056: Glas Whole.028
+    100058: Glas Whole.029
+    100060: Glas Whole.030
+    100062: Glas Whole.031
+    100064: Glas Whole.032
+    100066: Glas Whole.033
+    100068: Glas Whole.034
+    100070: Glas Whole.035
+    100072: Glas Whole.036
+    100074: Glas Whole.037
+    100076: Glas Whole.038
+    100078: Glas Whole.039
+    100080: Glas Whole.040
+    100082: Glas Whole.041
+    100084: Glas Whole.042
+    100086: Glas Whole.043
+    100088: Glas Whole.044
+    100090: Glas Whole.045
+    100092: Glas Whole.046
+    100094: Glas Whole.047
+    100096: Glas Whole.048
+    100098: Glas Whole.049
+    100100: Glas Whole.050
+    100102: Glas Whole.051
+    100104: Glas Whole.052
+    100106: Glas Whole.053
+    100108: Glas Whole.054
+    100110: Glas Whole.055
+    100112: Glas Whole.056
+    100114: Glas Whole.057
+    100116: Glas Whole.058
+    100118: Glas Whole.059
+    100120: Glas Whole.060
+    100122: Glas Whole.061
+    100124: Glas Whole.062
+    100126: Glas Whole.063
+    100128: Glas Whole.064
+    100130: Glas Whole.065
+    100132: Glas Whole.066
+    100134: Glas Whole.067
+    100136: Glas Whole.068
+    100138: Glas Whole.069
+    100140: Glas Whole.070
+    100142: Glas Whole.071
+    100144: Glas Whole.072
+    100146: Glas Whole.073
+    100148: Glas Whole.074
+    100150: Glas Whole.075
+    100152: Glas Whole.076
+    100154: Glas Whole.077
+    100156: Glas Whole.078
+    100158: Glas Whole.079
+    100160: Glas Whole.080
+    100162: Glas Whole.081
+    100164: Glas Whole.082
+    100166: Glas Whole.083
+    100168: Glas Whole.084
+    100170: Glas Whole.085
+    100172: Glas Whole.086
+    100174: Glas Whole.087
+    100176: Glas Whole.088
+    100178: Glas Whole.089
+    100180: Glas Whole.090
+    100182: Glas Whole.091
+    100184: Glas Whole.092
+    100186: Glas Whole.093
+    100188: Glas Whole.094
+    100190: Glas Whole.095
+    100192: Glas Whole.096
+    100194: Glas Whole.097
+    100196: Glas Whole.098
+    100198: Glas Whole.099
+    100200: Glas Whole.100
+    400000: //RootNode
+    400002: Glas Whole.001
+    400004: Glas Whole.002
+    400006: Glas Whole.003
+    400008: Glas Whole.004
+    400010: Glas Whole.005
+    400012: Glas Whole.006
+    400014: Glas Whole.007
+    400016: Glas Whole.008
+    400018: Glas Whole.009
+    400020: Glas Whole.010
+    400022: Glas Whole.011
+    400024: Glas Whole.012
+    400026: Glas Whole.013
+    400028: Glas Whole.014
+    400030: Glas Whole.015
+    400032: Glas Whole.016
+    400034: Glas Whole.017
+    400036: Glas Whole.018
+    400038: Glas Whole.019
+    400040: Glas Whole.020
+    400042: Glas Whole.021
+    400044: Glas Whole.022
+    400046: Glas Whole.023
+    400048: Glas Whole.024
+    400050: Glas Whole.025
+    400052: Glas Whole.026
+    400054: Glas Whole.027
+    400056: Glas Whole.028
+    400058: Glas Whole.029
+    400060: Glas Whole.030
+    400062: Glas Whole.031
+    400064: Glas Whole.032
+    400066: Glas Whole.033
+    400068: Glas Whole.034
+    400070: Glas Whole.035
+    400072: Glas Whole.036
+    400074: Glas Whole.037
+    400076: Glas Whole.038
+    400078: Glas Whole.039
+    400080: Glas Whole.040
+    400082: Glas Whole.041
+    400084: Glas Whole.042
+    400086: Glas Whole.043
+    400088: Glas Whole.044
+    400090: Glas Whole.045
+    400092: Glas Whole.046
+    400094: Glas Whole.047
+    400096: Glas Whole.048
+    400098: Glas Whole.049
+    400100: Glas Whole.050
+    400102: Glas Whole.051
+    400104: Glas Whole.052
+    400106: Glas Whole.053
+    400108: Glas Whole.054
+    400110: Glas Whole.055
+    400112: Glas Whole.056
+    400114: Glas Whole.057
+    400116: Glas Whole.058
+    400118: Glas Whole.059
+    400120: Glas Whole.060
+    400122: Glas Whole.061
+    400124: Glas Whole.062
+    400126: Glas Whole.063
+    400128: Glas Whole.064
+    400130: Glas Whole.065
+    400132: Glas Whole.066
+    400134: Glas Whole.067
+    400136: Glas Whole.068
+    400138: Glas Whole.069
+    400140: Glas Whole.070
+    400142: Glas Whole.071
+    400144: Glas Whole.072
+    400146: Glas Whole.073
+    400148: Glas Whole.074
+    400150: Glas Whole.075
+    400152: Glas Whole.076
+    400154: Glas Whole.077
+    400156: Glas Whole.078
+    400158: Glas Whole.079
+    400160: Glas Whole.080
+    400162: Glas Whole.081
+    400164: Glas Whole.082
+    400166: Glas Whole.083
+    400168: Glas Whole.084
+    400170: Glas Whole.085
+    400172: Glas Whole.086
+    400174: Glas Whole.087
+    400176: Glas Whole.088
+    400178: Glas Whole.089
+    400180: Glas Whole.090
+    400182: Glas Whole.091
+    400184: Glas Whole.092
+    400186: Glas Whole.093
+    400188: Glas Whole.094
+    400190: Glas Whole.095
+    400192: Glas Whole.096
+    400194: Glas Whole.097
+    400196: Glas Whole.098
+    400198: Glas Whole.099
+    400200: Glas Whole.100
+    2100000: No Name
+    2300000: Glas Whole.001
+    2300002: Glas Whole.002
+    2300004: Glas Whole.003
+    2300006: Glas Whole.004
+    2300008: Glas Whole.005
+    2300010: Glas Whole.006
+    2300012: Glas Whole.007
+    2300014: Glas Whole.008
+    2300016: Glas Whole.009
+    2300018: Glas Whole.010
+    2300020: Glas Whole.011
+    2300022: Glas Whole.012
+    2300024: Glas Whole.013
+    2300026: Glas Whole.014
+    2300028: Glas Whole.015
+    2300030: Glas Whole.016
+    2300032: Glas Whole.017
+    2300034: Glas Whole.018
+    2300036: Glas Whole.019
+    2300038: Glas Whole.020
+    2300040: Glas Whole.021
+    2300042: Glas Whole.022
+    2300044: Glas Whole.023
+    2300046: Glas Whole.024
+    2300048: Glas Whole.025
+    2300050: Glas Whole.026
+    2300052: Glas Whole.027
+    2300054: Glas Whole.028
+    2300056: Glas Whole.029
+    2300058: Glas Whole.030
+    2300060: Glas Whole.031
+    2300062: Glas Whole.032
+    2300064: Glas Whole.033
+    2300066: Glas Whole.034
+    2300068: Glas Whole.035
+    2300070: Glas Whole.036
+    2300072: Glas Whole.037
+    2300074: Glas Whole.038
+    2300076: Glas Whole.039
+    2300078: Glas Whole.040
+    2300080: Glas Whole.041
+    2300082: Glas Whole.042
+    2300084: Glas Whole.043
+    2300086: Glas Whole.044
+    2300088: Glas Whole.045
+    2300090: Glas Whole.046
+    2300092: Glas Whole.047
+    2300094: Glas Whole.048
+    2300096: Glas Whole.049
+    2300098: Glas Whole.050
+    2300100: Glas Whole.051
+    2300102: Glas Whole.052
+    2300104: Glas Whole.053
+    2300106: Glas Whole.054
+    2300108: Glas Whole.055
+    2300110: Glas Whole.056
+    2300112: Glas Whole.057
+    2300114: Glas Whole.058
+    2300116: Glas Whole.059
+    2300118: Glas Whole.060
+    2300120: Glas Whole.061
+    2300122: Glas Whole.062
+    2300124: Glas Whole.063
+    2300126: Glas Whole.064
+    2300128: Glas Whole.065
+    2300130: Glas Whole.066
+    2300132: Glas Whole.067
+    2300134: Glas Whole.068
+    2300136: Glas Whole.069
+    2300138: Glas Whole.070
+    2300140: Glas Whole.071
+    2300142: Glas Whole.072
+    2300144: Glas Whole.073
+    2300146: Glas Whole.074
+    2300148: Glas Whole.075
+    2300150: Glas Whole.076
+    2300152: Glas Whole.077
+    2300154: Glas Whole.078
+    2300156: Glas Whole.079
+    2300158: Glas Whole.080
+    2300160: Glas Whole.081
+    2300162: Glas Whole.082
+    2300164: Glas Whole.083
+    2300166: Glas Whole.084
+    2300168: Glas Whole.085
+    2300170: Glas Whole.086
+    2300172: Glas Whole.087
+    2300174: Glas Whole.088
+    2300176: Glas Whole.089
+    2300178: Glas Whole.090
+    2300180: Glas Whole.091
+    2300182: Glas Whole.092
+    2300184: Glas Whole.093
+    2300186: Glas Whole.094
+    2300188: Glas Whole.095
+    2300190: Glas Whole.096
+    2300192: Glas Whole.097
+    2300194: Glas Whole.098
+    2300196: Glas Whole.099
+    2300198: Glas Whole.100
+    3300000: Glas Whole.001
+    3300002: Glas Whole.002
+    3300004: Glas Whole.003
+    3300006: Glas Whole.004
+    3300008: Glas Whole.005
+    3300010: Glas Whole.006
+    3300012: Glas Whole.007
+    3300014: Glas Whole.008
+    3300016: Glas Whole.009
+    3300018: Glas Whole.010
+    3300020: Glas Whole.011
+    3300022: Glas Whole.012
+    3300024: Glas Whole.013
+    3300026: Glas Whole.014
+    3300028: Glas Whole.015
+    3300030: Glas Whole.016
+    3300032: Glas Whole.017
+    3300034: Glas Whole.018
+    3300036: Glas Whole.019
+    3300038: Glas Whole.020
+    3300040: Glas Whole.021
+    3300042: Glas Whole.022
+    3300044: Glas Whole.023
+    3300046: Glas Whole.024
+    3300048: Glas Whole.025
+    3300050: Glas Whole.026
+    3300052: Glas Whole.027
+    3300054: Glas Whole.028
+    3300056: Glas Whole.029
+    3300058: Glas Whole.030
+    3300060: Glas Whole.031
+    3300062: Glas Whole.032
+    3300064: Glas Whole.033
+    3300066: Glas Whole.034
+    3300068: Glas Whole.035
+    3300070: Glas Whole.036
+    3300072: Glas Whole.037
+    3300074: Glas Whole.038
+    3300076: Glas Whole.039
+    3300078: Glas Whole.040
+    3300080: Glas Whole.041
+    3300082: Glas Whole.042
+    3300084: Glas Whole.043
+    3300086: Glas Whole.044
+    3300088: Glas Whole.045
+    3300090: Glas Whole.046
+    3300092: Glas Whole.047
+    3300094: Glas Whole.048
+    3300096: Glas Whole.049
+    3300098: Glas Whole.050
+    3300100: Glas Whole.051
+    3300102: Glas Whole.052
+    3300104: Glas Whole.053
+    3300106: Glas Whole.054
+    3300108: Glas Whole.055
+    3300110: Glas Whole.056
+    3300112: Glas Whole.057
+    3300114: Glas Whole.058
+    3300116: Glas Whole.059
+    3300118: Glas Whole.060
+    3300120: Glas Whole.061
+    3300122: Glas Whole.062
+    3300124: Glas Whole.063
+    3300126: Glas Whole.064
+    3300128: Glas Whole.065
+    3300130: Glas Whole.066
+    3300132: Glas Whole.067
+    3300134: Glas Whole.068
+    3300136: Glas Whole.069
+    3300138: Glas Whole.070
+    3300140: Glas Whole.071
+    3300142: Glas Whole.072
+    3300144: Glas Whole.073
+    3300146: Glas Whole.074
+    3300148: Glas Whole.075
+    3300150: Glas Whole.076
+    3300152: Glas Whole.077
+    3300154: Glas Whole.078
+    3300156: Glas Whole.079
+    3300158: Glas Whole.080
+    3300160: Glas Whole.081
+    3300162: Glas Whole.082
+    3300164: Glas Whole.083
+    3300166: Glas Whole.084
+    3300168: Glas Whole.085
+    3300170: Glas Whole.086
+    3300172: Glas Whole.087
+    3300174: Glas Whole.088
+    3300176: Glas Whole.089
+    3300178: Glas Whole.090
+    3300180: Glas Whole.091
+    3300182: Glas Whole.092
+    3300184: Glas Whole.093
+    3300186: Glas Whole.094
+    3300188: Glas Whole.095
+    3300190: Glas Whole.096
+    3300192: Glas Whole.097
+    3300194: Glas Whole.098
+    3300196: Glas Whole.099
+    3300198: Glas Whole.100
+    4300000: Glas Whole.100
+    4300002: Glas Whole.099
+    4300004: Glas Whole.098
+    4300006: Glas Whole.097
+    4300008: Glas Whole.096
+    4300010: Glas Whole.095
+    4300012: Glas Whole.094
+    4300014: Glas Whole.093
+    4300016: Glas Whole.092
+    4300018: Glas Whole.091
+    4300020: Glas Whole.090
+    4300022: Glas Whole.089
+    4300024: Glas Whole.088
+    4300026: Glas Whole.087
+    4300028: Glas Whole.086
+    4300030: Glas Whole.085
+    4300032: Glas Whole.084
+    4300034: Glas Whole.083
+    4300036: Glas Whole.082
+    4300038: Glas Whole.081
+    4300040: Glas Whole.080
+    4300042: Glas Whole.079
+    4300044: Glas Whole.078
+    4300046: Glas Whole.077
+    4300048: Glas Whole.076
+    4300050: Glas Whole.075
+    4300052: Glas Whole.074
+    4300054: Glas Whole.073
+    4300056: Glas Whole.072
+    4300058: Glas Whole.071
+    4300060: Glas Whole.070
+    4300062: Glas Whole.069
+    4300064: Glas Whole.068
+    4300066: Glas Whole.067
+    4300068: Glas Whole.066
+    4300070: Glas Whole.065
+    4300072: Glas Whole.064
+    4300074: Glas Whole.063
+    4300076: Glas Whole.062
+    4300078: Glas Whole.061
+    4300080: Glas Whole.060
+    4300082: Glas Whole.059
+    4300084: Glas Whole.058
+    4300086: Glas Whole.057
+    4300088: Glas Whole.056
+    4300090: Glas Whole.055
+    4300092: Glas Whole.054
+    4300094: Glas Whole.053
+    4300096: Glas Whole.052
+    4300098: Glas Whole.051
+    4300100: Glas Whole.050
+    4300102: Glas Whole.049
+    4300104: Glas Whole.048
+    4300106: Glas Whole.047
+    4300108: Glas Whole.046
+    4300110: Glas Whole.045
+    4300112: Glas Whole.044
+    4300114: Glas Whole.043
+    4300116: Glas Whole.042
+    4300118: Glas Whole.041
+    4300120: Glas Whole.040
+    4300122: Glas Whole.039
+    4300124: Glas Whole.038
+    4300126: Glas Whole.037
+    4300128: Glas Whole.036
+    4300130: Glas Whole.035
+    4300132: Glas Whole.034
+    4300134: Glas Whole.033
+    4300136: Glas Whole.032
+    4300138: Glas Whole.031
+    4300140: Glas Whole.030
+    4300142: Glas Whole.029
+    4300144: Glas Whole.028
+    4300146: Glas Whole.027
+    4300148: Glas Whole.026
+    4300150: Glas Whole.025
+    4300152: Glas Whole.024
+    4300154: Glas Whole.023
+    4300156: Glas Whole.022
+    4300158: Glas Whole.021
+    4300160: Glas Whole.020
+    4300162: Glas Whole.019
+    4300164: Glas Whole.018
+    4300166: Glas Whole.017
+    4300168: Glas Whole.016
+    4300170: Glas Whole.015
+    4300172: Glas Whole.014
+    4300174: Glas Whole.013
+    4300176: Glas Whole.012
+    4300178: Glas Whole.011
+    4300180: Glas Whole.010
+    4300182: Glas Whole.009
+    4300184: Glas Whole.008
+    4300186: Glas Whole.007
+    4300188: Glas Whole.006
+    4300190: Glas Whole.005
+    4300192: Glas Whole.004
+    4300194: Glas Whole.003
+    4300196: Glas Whole.002
+    4300198: Glas Whole.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
